@@ -19,12 +19,9 @@ DAR ([در](https://ur.wikipedia.org/wiki/%D8%AF%D8%B1)) is a Persian word (also
 - TBA
 
 # Team
-## Founding Members
-- [Sahaab Badar Sheikh](https://habib.edu.pk/AHSS/sahaab-sheikh/)
-- [Muhammad Qasim Pasta](https://habib.edu.pk/SSE/muhammad-qasim-pasta/)
-- Laiba Farid
-- Abdullah Siddiqui
 ## Current Members
-- TBA
+- [Sahaab Badar Sheikh](https://habib.edu.pk/AHSS/sahaab-sheikh/) (Founding Member)
+- [Muhammad Qasim Pasta](https://habib.edu.pk/SSE/muhammad-qasim-pasta/) (Founding Member)
 ## Past Members
-- TBA
+- Laiba Farid (Founding Member)
+- Abdullah Siddiqui (Founding Member)
