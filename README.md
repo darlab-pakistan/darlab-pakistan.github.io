@@ -16,7 +16,7 @@ Join us in our mission to promote a culture of data-driven research and knowledg
 DAR ([در](https://ur.wikipedia.org/wiki/%D8%AF%D8%B1)) is a Persian word (also used in Urdu) for the door. We chose this name with the hope that our effort will open the door to the decolonization of data.
 
 # Projects
-- TBA
+- [Sample Project](project_sample.md)
 
 # Team
 ## Current Members
