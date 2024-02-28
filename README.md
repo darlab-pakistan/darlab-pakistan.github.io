@@ -22,6 +22,7 @@ DAR ([در](https://ur.wikipedia.org/wiki/%D8%AF%D8%B1)) is a Persian word (also
 ## Current Members
 - [Sahaab Badar Sheikh](https://habib.edu.pk/AHSS/sahaab-sheikh/) (Founding Member)
 - [Muhammad Qasim Pasta](https://habib.edu.pk/SSE/muhammad-qasim-pasta/) (Founding Member)
+- [Muhammad Ashar Khan](https://habib.edu.pk/AHSS/muhammad-ashar-khan/) (Project Coordinator, since Spring 2024)
 ## Past Members
-- Laiba Farid (Founding Member)
-- Abdullah Siddiqui (Founding Member)
+- Laiba Farid (Founding Member, till Spring 2023)
+- Abdullah Siddiqui (Founding Member, till Spring 2023)
