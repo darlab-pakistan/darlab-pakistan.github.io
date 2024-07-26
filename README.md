@@ -13,17 +13,23 @@ We extend an invitation to scholars, researchers, and students to utilize our da
 Join us in our mission to promote a culture of data-driven research and knowledge exchange at the Data Research Lab.
 
 # Name
+
 DAR ([در](https://ur.wikipedia.org/wiki/%D8%AF%D8%B1)) is a Persian word (also used in Urdu) for the door. We chose this name with the hope that our effort will open the door to the decolonization of data.
 
 # Projects
+
 - [Pakistan Justice Data](pakistan-justice-data/README.md)
 - [Sample Project](project_sample.md)
 
 # Team
+
 ## Current Members
+
 - [Sahaab Badar Sheikh](https://habib.edu.pk/AHSS/sahaab-sheikh/) (Founding Member)
 - [Muhammad Qasim Pasta](https://habib.edu.pk/SSE/muhammad-qasim-pasta/) (Founding Member)
 - [Muhammad Ashar Khan](https://habib.edu.pk/AHSS/muhammad-ashar-khan/) (Project Coordinator, since Spring 2024)
+
 ## Past Members
+
 - Laiba Farid (Founding Member, till Spring 2023)
 - Abdullah Siddiqui (Founding Member, till Spring 2023)
