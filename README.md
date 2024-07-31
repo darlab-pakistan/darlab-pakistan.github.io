@@ -1,4 +1,4 @@
-_[This is a text-only website where we prefer no images to load unless you click to load an image.]_
+_[This is a text-only website where we prefer no images unless you click to load an image.]_
 
 Welcome to the Data Research Lab (DAR) ([image: our logo](darlab-logo.jpg)), an initiative aimed at providing a comprehensive dataset related to [Pakistan](https://en.wikipedia.org/wiki/Pakistan) to facilitate research and promote knowledge exchange.
 
