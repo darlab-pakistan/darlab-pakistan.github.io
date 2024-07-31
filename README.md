@@ -21,7 +21,6 @@ DAR ([در](https://ur.wikipedia.org/wiki/%D8%AF%D8%B1)) is a Persian word (also
 # Projects
 
 - [Pakistan Justice Data](pakistan-justice-data/README.md)
-- [Sample Project](project_sample.md)
 
 # Team
 
