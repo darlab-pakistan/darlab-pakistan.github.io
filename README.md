@@ -36,3 +36,13 @@ DAR ([در](https://ur.wikipedia.org/wiki/%D8%AF%D8%B1)) is a Persian word (also
 - Abdullah Siddiqui (Founding Member, September 2022 - May 2023)
 
 [_People working on different projects are listed on the respective project pages._]
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-ZKYZ32XY6X"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-ZKYZ32XY6X');
+</script>
