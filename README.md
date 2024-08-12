@@ -35,4 +35,4 @@ DAR ([در](https://ur.wikipedia.org/wiki/%D8%AF%D8%B1)) is a Persian word (also
 - Laiba Farid (Founding Member, September 2022 - May 2023)
 - Abdullah Siddiqui (Founding Member, September 2022 - May 2023)
 
-[_People working on separate projects are listed on the respective project pages._]
+[_People working on different projects are listed on the respective project pages._]
