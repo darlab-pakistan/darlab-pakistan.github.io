@@ -1,8 +1,8 @@
-This dataset is published under the project "[Pakistan Justice Data](../README.md)".
-
 ## Case Data Sindh High Court 2011 v1.0
 
 The case-wise data was extracted in Summer 2023 from the [Sindh High Court website](htts://shc.gov.pk). The dataset contains information on cases filed in the Sindh High Court in 2011, including details on case type, case status, nature of cases, and case disposal.
+
+This dataset is published under the project [Pakistan Justice Data](../README.md).
 
 ### Collection Methodology
 
