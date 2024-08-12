@@ -109,15 +109,15 @@ The data is available under the [Creative Commons Attribution Non Commercial 4.0
 
 ### Team Members
 
-#### Corresponding Authors
+#### Principal Investigators (Corresoonding Members)
 
-- [Muhammad Qasim Pasta](https://habib.edu.pk/SSE/muhammad-qasim-pasta/) (Co-PI)
-- [Sahaab Badar Sheikh](https://habib.edu.pk/AHSS/sahaab-sheikh/) (Co-PI)
+- [Muhammad Qasim Pasta](https://habib.edu.pk/SSE/muhammad-qasim-pasta/)
+- [Sahaab Badar Sheikh](https://habib.edu.pk/AHSS/sahaab-sheikh/)
 
-#### Non-Corresponding Authors
+#### Student Researchers
 
-- Iqra Azfar (Student Researcher)
-- Rija Hasan Abidi (Student Researcher)
+- Iqra Azfar
+- Syeda Rija Hasan Abidi
 
 ## Acknowledgements
 
