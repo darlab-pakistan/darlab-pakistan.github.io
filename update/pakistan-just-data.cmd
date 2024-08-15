@@ -1,0 +1,1 @@
+git subtree pull --prefix pakistan-justice-data https://github.com/darlab-pakistan/pakistan-justice-data.git main --squash
