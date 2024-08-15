@@ -1,6 +1,7 @@
 _[This is a text-only website where we prefer no images unless you click to load an image.]_
 
-Welcome to the Data Research Lab (DAR) ([image: our logo](darlab-logo.jpg)), an initiative aimed at providing a comprehensive dataset related to [Pakistan](https://en.wikipedia.org/wiki/Pakistan) to facilitate research and promote knowledge exchange.
+## Welcome
+Data Research Lab (DAR) ([image: our logo](darlab-logo.jpg)), an initiative aimed at providing a comprehensive dataset related to [Pakistan](https://en.wikipedia.org/wiki/Pakistan) to facilitate research and promote knowledge exchange.
 
 Our mission is to create and compile contextual data on [Pakistan](https://en.wikipedia.org/wiki/Pakistan) that can be utilized by scholars, researchers, and students across various disciplines. We aspire to cultivate a culture of data-driven research, where information is sourced, analyzed, and interpreted in a meaningful and relevant manner.
 
@@ -36,6 +37,8 @@ DAR ([در](https://ur.wikipedia.org/wiki/%D8%AF%D8%B1)) is a Persian word (also
 - Abdullah Siddiqui (Founding Member, September 2022 - May 2023)
 
 [_People working on different projects are listed on the respective project pages._]
+
+Go to: [Top](#welcome)
 
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-ZKYZ32XY6X"></script>
