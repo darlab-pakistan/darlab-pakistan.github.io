@@ -1,15 +1,15 @@
 _[This is a text-only website where we prefer no images unless you click to load an image.]_
 
 ## Welcome
-Data Research Lab (DAR) ([image: our logo](darlab-logo.jpg)), an initiative aimed at providing a comprehensive dataset related to [Pakistan](https://en.wikipedia.org/wiki/Pakistan) to facilitate research and promote knowledge exchange.
+Data Research Lab (DAR) ([image: our logo](darlab-logo.jpg)), an initiative aimed at providing comprehensive datasets related to [Pakistan](https://en.wikipedia.org/wiki/Pakistan) to facilitate research and promote knowledge exchange.
 
 Our mission is to create and compile contextual data on [Pakistan](https://en.wikipedia.org/wiki/Pakistan) that can be utilized by scholars, researchers, and students across various disciplines. We aspire to cultivate a culture of data-driven research, where information is sourced, analyzed, and interpreted in a meaningful and relevant manner.
 
 [Pakistan](https://en.wikipedia.org/wiki/Pakistan) boasts a rich cultural heritage, intricate socio-political dynamics, and a diverse demographic composition. However, the availability of contextual data on various aspects of [Pakistan](https://en.wikipedia.org/wiki/Pakistan) is often limited, leading to gaps in understanding and knowledge. We endeavor to bridge this gap by developing a comprehensive and inclusive dataset accessible to all.
 
-We firmly believe that data serves as a tool for empowerment, and we aspire our endeavors to contribute to the [decolonization](https://en.wikipedia.org/wiki/Decolonization) of data and knowledge production. By furnishing contextual data on Pakistan, we aim to foster critical thinking, evidence-based decision-making, and inclusive research practices.
+We firmly believe that data serves as a tool for empowerment, and we aspire our efforts to contribute to the [decolonization](https://en.wikipedia.org/wiki/Decolonization) of data and knowledge production. By furnishing contextual data on Pakistan, we aim to foster critical thinking, evidence-based decision-making, and inclusive research practices.
 
-Our team is dedicated to gathering, verifying, and organizing data on various facets of [Pakistan](https://en.wikipedia.org/wiki/Pakistan), including demographics, education, health, economics, and politics. Our data sources are diverse, encompassing primary and secondary sources such as surveys, government reports, academic publications, and news articles.
+We are dedicated to gathering, verifying, and organizing data on various facets of [Pakistan](https://en.wikipedia.org/wiki/Pakistan), including demographics, education, health, economics, and politics. Our data sources are diverse, encompassing primary and secondary sources such as surveys, government reports, academic publications, and news articles.
 
 We extend an invitation to scholars, researchers, and students to utilize our dataset for their research endeavors and to contribute to knowledge production about [Pakistan](https://en.wikipedia.org/wiki/Pakistan). Additionally, we welcome feedback and suggestions on how to enhance our dataset and services.
 
