@@ -7,7 +7,7 @@ This project aims to construct a dataset of Pakistan's courts to better understa
 We will be releasing different datasets under this project at different times. You can access each dataset by clicking the links provided below:
 
 - [August 2024] [Case Data Sindh High Court 2011 v1.0](sindhv1.0/sindh_highcourt_v1_0.md): This dataset contains information on cases filed in the Sindh High Court in 2011. It includes details on case type, case number, case status, case duration, and judge information.
-- [September 2024] [Case Data Lahore High Court 2013 v1.0](punjabv1.0/punjab_highcourt_v1_0.md): This dataset contains information on cases filed in the Lahore High Court in 2013. It includes details on case type, case number, case status, case duration, and judge information.
+- [September 2024] [Case Data Lahore High Court 2013 v1.0](punjab/v1/punjab_highcourt_v1.md): This dataset contains information on cases filed in the Lahore High Court in 2013. It includes details on case type, case number, case status, case duration, and judge information.
 
 ## Status
 
