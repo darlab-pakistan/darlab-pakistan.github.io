@@ -31,7 +31,7 @@ DAR ([در](https://ur.wikipedia.org/wiki/%D8%AF%D8%B1)) is a Persian word (also
 
 - [Sahaab Badar Sheikh](https://habib.edu.pk/AHSS/sahaab-sheikh/) (Co-Founder)
 - [Muhammad Qasim Pasta](https://habib.edu.pk/SSE/muhammad-qasim-pasta/) (Co-Founder)
-- [Muhammad Ashar Khan](https://habib.edu.pk/AHSS/muhammad-ashar-khan/) (Project Coordinator, since January 2024)
+- [Muhammad Ashar Khan](https://habib.edu.pk/AHSS/muhammad-ashar-khan/) (Coordinator, since January 2024)
 
 ### Past Members
 
