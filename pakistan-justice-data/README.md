@@ -21,3 +21,5 @@ This project is ongoing, and we are committed to releasing updated datasets on a
 Team members working on different datasets are mentioned in the respective dataset's page.
 
 Go to: [Top](#pakistan-justice-data) | [Data Research Lab - Pakistan](https://darlab-pakistan.github.io/)
+
+<link rel="include" href="../analytics.html">

@@ -26,3 +26,5 @@ The first release of the research-ready dataset is expected to be available by t
 - To be added
 
 Go to: [Top](#research-ready-covid-19) | [Data Research Lab - Pakistan](https://darlab-pakistan.github.io/)
+
+<link rel="include" href="../analytics.html">

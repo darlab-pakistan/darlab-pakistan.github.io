@@ -113,3 +113,5 @@ The data is available under the [Creative Commons Attribution Non Commercial 4.0
 We would like to thank [Habib University](http://habib.edu.pk) for providing funding for this part of the project under the grant [Summer Tehqiq (Research) Program 2023](https://habib.edu.pk/research-at-habib/summer-tehqiq-research-program/).
 
 Go to: [Top](#case-data-lahore-high-court-2013-v10) | [Pakistan Justice Data](../../README.md) | [Data Research Lab - Pakistan](https://darlab-pakistan.github.io/)
+
+<link rel="include" href="../../analytics.html">
