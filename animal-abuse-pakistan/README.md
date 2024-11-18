@@ -60,3 +60,5 @@ The data is available under the [Creative Commons Attribution Non Commercial 4.0
 - Mayam Raza (student researcher)
 
 Go to: [Top](#animal-abuse-data) | [Data Research Lab - Pakistan](https://darlab-pakistan.github.io/)
+
+<link rel="include" href="../analytics.html">

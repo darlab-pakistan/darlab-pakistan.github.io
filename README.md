@@ -25,6 +25,7 @@ DAR ([در](https://ur.wikipedia.org/wiki/%D8%AF%D8%B1)) is a Persian word (also
 - [Pakistan Justice Data](pakistan-justice-data/README.md)
 - [Research Ready COVID-19](research-ready-covid19/README.md)
 - [Animal Abuse in Pakistan](animal-abuse-pakistan/README.md)
+- [Koh-e-Atlas](koh-e-atlas/README.md)
 
 ## Team
 
@@ -44,13 +45,4 @@ DAR ([در](https://ur.wikipedia.org/wiki/%D8%AF%D8%B1)) is a Persian word (also
 
 Go to: [Top](#welcome)
 
-
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-ZKYZ32XY6X"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-ZKYZ32XY6X');
-</script>
+<link rel="include" href="analytics.html">
