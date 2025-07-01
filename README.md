@@ -27,6 +27,7 @@ DAR ([در](https://ur.wikipedia.org/wiki/%D8%AF%D8%B1)) is a Persian word (also
 - [Animal Abuse in Pakistan](animal-abuse-pakistan/README.md)
 - [Koh-e-Atlas](koh-e-atlas/README.md)
 - [Karachi Bus Network](karachi-bus-network/README.md)
+- [Pakistan Stock Exchange (PSX) Networks](psx-networks/README.md)
 
 ## Team
 
