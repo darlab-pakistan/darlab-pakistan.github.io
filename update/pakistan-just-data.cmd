@@ -3,3 +3,5 @@ git subtree pull --prefix research-ready-covid19 https://github.com/darlab-pakis
 git subtree pull --prefix animal-abuse-pakistan https://github.com/darlab-pakistan/animal-abuse.git main --squash
 git subtree pull --prefix koh-e-atlas https://github.com/darlab-pakistan/koh-e-atlas.git main --squash
 git subtree pull --prefix karachi-bus-network https://github.com/darlab-pakistan/karachi-bus-network.git main --squash
+git subtree pull --prefix psx-networks https://github.com/darlab-pakistan/psx-networks.git main --squash
+
