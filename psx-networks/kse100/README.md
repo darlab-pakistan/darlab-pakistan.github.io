@@ -25,12 +25,16 @@ The dataset can be accessed at [https://doi.org/10.5281/zenodo.15782790](https:/
 
 The dataset is provided in both CSV and GraphML formats to ensure compatibility with various network analysis tools such as Gephi, R, and Python's NetworkX. These formats allow for both quantitative exploration and visual representation of the KSE 100 board interlocks.
 
-The CSV file contains the following attributes:
-- ``Symbol``: The stock ticker symbol representing the listed company on the stock exchange (e.g., KEL, PAEL, SEARL).
-- ``Company``: The full name of the company.
-- ``Industry``: The sector or industry classification in which the company operates (e.g., Power Generation & Distribution, Pharmaceuticals).
-- ``Director``: The name of an individual serving as a board member or director of the company.
-- ``Gender``: The gender of the respective director (`M` for Male, `F` for Female).
+- ``board_network.graphml``: Board Network where each node represents a person, and an edge between two nodes indicates that both individuals serve on the same board of at least one company. The weight of the edge represents the number of boards they serve on together.
+- ``company_network.graphml``:"Company Network where each node represents a company, and an edge between two nodes indicates that both companies share at least one board member. The weight of the edge represents the number of shared board members.
+- ``generate_board_network.R``: R script to construct the board network using raw data.
+- ``generate_company_network.R``: R script to construct the company network using raw data.
+- ``data.csv``:  The CSV file contains the following attributes:
+  - ``Symbol``: The stock ticker symbol representing the listed company on the stock exchange (e.g., KEL, PAEL, SEARL).
+  - ``Company``: The full name of the company.
+  - ``Industry``: The sector or industry classification in which the company operates (e.g., Power Generation & Distribution, Pharmaceuticals).
+  - ``Director``: The name of an individual serving as a board member or director of the company.
+  - ``Gender``: The gender of the respective director (`M` for Male, `F` for Female).
 
 ### Data Summary
 
@@ -47,6 +51,7 @@ The KSE-100 director network, comprising 701 nodes and 3,121 edges, reveals a hi
 | Density                  | 0.9    |
 
 In contrast, the company-to-company network, which maps shared directors between companies, is considerably more sparse. With only 112 edges among 100 nodes, the network has a low density of 0.0226 and a high diameter of 21, suggesting that most companies do not share directors directly and that governance overlap is limited. Yet, the modularity score of 1.0 indicates a highly structured and organized system, segmented into 31 communities, including 18 within a densely connected core and 13 peripheral clusters. This modular structure reflects distinct industry or influence-based groupings, offering insight into the segmented nature of corporate governance in Pakistan.
+
 Together, the two networks highlight a dual reality of Pakistan’s corporate landscape—dense interlinkages at the individual (director) level, and sectoral or strategic separation at the company level.
 
 | Network Metric              | Value  |
@@ -61,13 +66,17 @@ Together, the two networks highlight a dual reality of Pakistan’s corporate la
 | Peripheral Communities      | 13     |
 
 #### Visualiazation:
+
 The following visualization represents the Board of Directors network, where each node corresponds to a person who is a member of the board of one or more companies. An edge between two directors indicates that both serve on the board of one or more companies together.
+
 ![Board of Director Network](images/bod.png)
 
 The following network also represents the Board of Directors. Female board members are shown as pink nodes. It is evident that there is very little representation of women on corporate boards.
+
 ![Gender Analysis](images/gender.png)
 
 The following network represents the company interlocking network. Each node corresponds to a company, and an edge between two companies indicates that they share at least one common director.
+
 ![Company Interlocking Network](images/comp.jpg)
 
 
@@ -103,17 +112,17 @@ The data is available under the [Creative Commons Attribution Non Commercial 4.0
 
 ### Team Members
 
-#### Principal Investigators (Corresoonding Members)
+#### Principal Investigator(s) (Corresponding Member(s))
 
 - [Muhammad Qasim Pasta](https://habib.edu.pk/SSE/muhammad-qasim-pasta/)
 
-#### Student Researchers
+#### Student Researcher(s)
 
 - [Uraib Chamdia](https://www.linkedin.com/in/uraib-chamdia-3943b1160/)
 - [Muhammad Hashim Memon](https://www.linkedin.com/in/memonmuhammadhashim/)
 
 ## Acknowledgements
 
-This project was initiated as part of the *Social Network Analysis* course at [Habib University](https://habib.edu.pk). [Mohammad Arqam Nakhuda](https://www.linkedin.com/in/mohammad-arqam-nakhuda-0374b71ab/) was also involved in the course project and played a key role in its ideation.
+This project was initiated as part of the *Social Network Analysis* course at [Habib University](https://habib.edu.pk). Along with above listed students, [Mohammad Arqam Nakhuda](https://www.linkedin.com/in/mohammad-arqam-nakhuda-0374b71ab/) was also involved in the course project and played a key role in its ideation.
 
 Go to: [Top](#board-network-kse-100-index) | [PSX Networks](../README.md) | [Data Research Lab - Pakistan](https://darlab-pakistan.github.io/)
