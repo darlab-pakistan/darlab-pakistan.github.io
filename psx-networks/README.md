@@ -1,4 +1,4 @@
-## PSX NetworksMore actions
+## PSX Networks
 
 This project aims to curate, structure, and analyze data related to corporate board memberships for companies listed on the Pakistan Stock Exchange (PSX). By constructing interlocking directorate networks - where individuals serve on multiple boards—the project seeks to uncover patterns of influence, governance structures, and connectivity among firms in Pakistan’s corporate landscape.
 
